@@ -28,4 +28,4 @@ While I am not an active contributor to any personal or public projects presentl
    </a>  -->
 <!-- </div> -->
 
-🤞🏼🥂
+🤞🥂
