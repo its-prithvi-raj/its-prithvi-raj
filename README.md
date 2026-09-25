@@ -1,4 +1,4 @@
-Exploring Tech.
+Exploring Tech
 
 
 
