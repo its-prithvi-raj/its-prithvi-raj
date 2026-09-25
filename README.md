@@ -1,17 +1,13 @@
-# 👋
+<!--- # 👋 -->
 
-<!--- I am into **Data Science**, **Machine Learning Engineering**, **Software Engineering** - any **engineering** work related to AI and **approaches to Artificial Intelligence**.🤖 I also like **CUDA/GPU programming** and **App Development**; however, I have neither learned nor worked with either.🙃 Although I am not an active contributor (but I ♥️ to explore GitHub) to any personal or public projects, I am more than glad if I can help you out in any way/assist you in any way/add my energy to yours on anything!😎 -->
+<!--- While I am not an active contributor to any personal or public projects presently (though I ♥️ exploring GitHub), I'm always open to **assisting and collaborating** in any way I can. Let me know if you would like to **combine energies on something**! 😎 -->
 
-<!--- I have a predilection towards **Data Science, Machine Learning Engineering,** and **AI Engineering** - anything related to **AI** and **its various approaches**! 🤖 Although I haven't formally learned or worked with **CUDA/GPU programming** & **App Development**, these areas still spark my interest.--> 
+<!--- # 🤹 -->
 
-While I am not an active contributor to any personal or public projects presently (though I ♥️ exploring GitHub), I'm always open to **assisting and collaborating** in any way I can. Let me know if you would like to **combine energies on something**! 😎
+<!--- [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,sklearn,pytorch,tensorflow,aws,azure,docker,postgresql,mongodb,linux,vscode,pycharm,idea,clion,anaconda,)](https://skillicons.dev) -->
 
-# 🤹
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,sklearn,pytorch,tensorflow,aws,azure,docker,postgresql,mongodb,linux,vscode,pycharm,idea,clion,anaconda,)](https://skillicons.dev)
-
-# 🤔
-[![My Skills](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev) 
+<!--- # 🤔
+[![My Skills](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev) -->
 
 <!-- <div id="badges">
    <a href="mailto:kshatriyaprithviraj@gmail.com?">
@@ -28,4 +24,4 @@ While I am not an active contributor to any personal or public projects presentl
    </a>  -->
 <!-- </div> -->
 
-🤞🥂
+<!--- 🤞🥂 -->
